@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 👯欢迎访问。✨😄📫
 
-[![srcrs's github stats](https://github-readme-stats.vercel.app/api?username=srcrs)](https://github.com/srcrs/ 'srcrs')
+[![srcrs's github stats](https://github-readme-stats.vercel.app/api?username=srcrs&theme=gruvbox)](https://github.com/srcrs/ 'srcrs')
 
 [![Page Views Count](https://badges.toozhao.com/badges/01EKHD0FKMCRYD43BB56C2S40G/green.svg)](https://badges.toozhao.com/badges/01EKHD0FKMCRYD43BB56C2S40G/green.svg "Get your own page views count badge on badges.toozhao.com")
