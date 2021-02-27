@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 👯欢迎访问。✨😄📫 
 
-[![srcrs's github stats](https://github-readme-stats-srcrs.vercel.app/api?username=srcrs&show_icons=true&theme=gruvbox)]
+[![srcrs's github stats](https://github-readme-stats-srcrs.vercel.app/api?username=srcrs&show_icons=true&theme=gruvbox)](https://github.com/srcrs)
 
-[![Top Langs](https://github-readme-stats-srcrs.vercel.app/api/top-langs/?username=srcrs&show_icons=true)]
+[![Top Langs](https://github-readme-stats-srcrs.vercel.app/api/top-langs/?username=srcrs&show_icons=true)](https://github.com/srcrs)
 
 [![Page Views Count](https://badges.toozhao.com/badges/01EKHD0FKMCRYD43BB56C2S40G/green.svg)](https://badges.toozhao.com/badges/01EKHD0FKMCRYD43BB56C2S40G/green.svg "Get your own page views count badge on badges.toozhao.com")
