@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats-srcrs.vercel.app/api/top-langs/?username=srcrs&show_icons=true)](https://github.com/srcrs)
 
+[![willianrod's wakatime stats](https://github-readme-stats-srcrs.vercel.app/api/wakatime?username=srcrs)](https://wakatime.com/)
+
 [![Page Views Count](https://badges.toozhao.com/badges/01EKHD0FKMCRYD43BB56C2S40G/green.svg)](https://badges.toozhao.com/badges/01EKHD0FKMCRYD43BB56C2S40G/green.svg "Get your own page views count badge on badges.toozhao.com")
