@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![srcrs's github stats](https://github-readme-stats.vercel.app/api?username=srcrs&show_icons=true&theme=gruvbox)](https://github.com/srcrs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srcrs&show_icons=true)](https://github.com/srcrs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srcrs&show_icons=true&hide=html)](https://github.com/srcrs)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=srcrs&show_icons=true&theme=dracula)](https://wakatime.com/)
 
